@@ -1,0 +1,7 @@
+There are multiple dependencies this project uses.
+you can install them all with:
+
+pip install requests
+pip install pandas
+pip install scipy
+pip install matplotlib
